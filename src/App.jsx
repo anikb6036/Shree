@@ -12,7 +12,7 @@ const MidnightEditorialHomePage = () => {
       <nav className="mh-nav">
         <div className="mh-brand">ÉDITION</div>
         <ul className="mh-nav-links">
-          <li><a href="#work">Work</a></li>
+          <li><a href="https://github.com/anikb6036" target="_blank" rel="noopener noreferrer">Work</a></li>
           <li><a href="#studio">Studio</a></li>
           <li><a href="#journal">Journal</a></li>
           <li><a href="#contact" className="mh-contact-btn">Contact</a></li>
@@ -32,7 +32,7 @@ const MidnightEditorialHomePage = () => {
         />
         <h1 className="mh-hero-title">Dark<br />Matter</h1>
         <p className="mh-hero-desc">
-          Where brutalist architecture meets haute couture – a new paradigm in visual storytelling.
+          No matter the distance, a part of me will always smile when I hear your name, Shree. ✨
         </p>
       </section>
 
@@ -104,10 +104,10 @@ const MidnightEditorialHomePage = () => {
         <div className="mh-light-leak mh-leak-orange" style={{ bottom: '5%', right: '15%' }} />
         <a href="https://www.instagram.com/shree_ofc__/"  target="_blank" rel="noopener noreferrer" className="mh-footer-cta">shree_ofc__</a>
         <ul className="mh-footer-social">
-          <li><a href="#">Instagram</a></li>
-          <li><a href="#">LinkedIn</a></li>
-          <li><a href="#">Behance</a></li>
-          <li><a href="#">Twitter</a></li>
+          <li><a href="https://www.instagram.com/anik_b117/" target="_blank" rel="noopener noreferrer">Instagram</a></li>
+          <li><a href="https://www.linkedin.com/in/anikbaidya2003/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+          <li><a href="https://www.behance.net/anikshree" target="_blank" rel="noopener noreferrer">Behance</a></li>
+          <li><a href="https://twitter.com/anik_shree" target="_blank" rel="noopener noreferrer">Twitter</a></li>
         </ul>
         <div className="mh-ghost-brand">ÉDITION</div>
       </footer>
