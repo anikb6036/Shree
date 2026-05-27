@@ -42,14 +42,7 @@ const MidnightEditorialHomePage = () => {
           <div className="mh-stat-label">Filing</div>
           <div className="mh-stat-value">100++</div>
         </div>
-        <div className="mh-stat-cell mh-animate-reveal mh-stagger2">
-          <div className="mh-stat-label">Awards</div>
-          <div className="mh-stat-value">0++</div>
-        </div>
-        <div className="mh-stat-cell mh-animate-reveal mh-stagger3">
-          <div className="mh-stat-label">Clients</div>
-          <div className="mh-stat-value">1</div>
-        </div>
+       
         <div className="mh-stat-cell mh-animate-reveal mh-stagger4">
           <div className="mh-stat-label">Years</div>
           <div className="mh-stat-value">02++</div>
