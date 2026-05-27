@@ -23,7 +23,7 @@ const MidnightEditorialHomePage = () => {
         <div
           className="mh-hero-image"
           style={{
-            backgroundImage: 'url(https://scontent-ccu2-1.xx.fbcdn.net/v/t39.30808-6/481234384_1666995387526185_8736406767444040515_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=XgU-Dkraa_QQ7kNvwFcm7hL&_nc_oc=AdosQyFgMJofm82A91fVTLKDRP_PUfZI0i9gthB5SdZlaMnEHapfdDoiIWtYsfvTg9I&_nc_zt=23&_nc_ht=scontent-ccu2-1.xx&_nc_gid=gNJhrET-ZQ85yWjCBB9oGQ&_nc_ss=7b2a8&oh=00_Af5gqTE3dCg0w91XKBcHELsxkVQN9mpbQgljsxRVq2G33w&oe=6A138D92)',
+            backgroundImage: 'url(https://scontent.fccu14-1.fna.fbcdn.net/v/t39.30808-6/481234384_1666995387526185_8736406767444040515_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Dvshk-Dq6m0Q7kNvwFx0iK_&_nc_oc=AdqOfzhLfgx2Uf2PcX3aYwNVhXpnRBWzRCbCELgmFtvCuO-yf32GU146V2wKGJB63HY&_nc_zt=23&_nc_ht=scontent.fccu14-1.fna&_nc_gid=mtJfVhFRMYBU0H20sPA26g&_nc_ss=7b2a8&oh=00_Af7W_0n_5B07x7qBzpnWU4el2ZonbYuOamGpg40lsX0dRw&oe=6A1C8FD2)',
           }}
         />
         <h1 className="mh-hero-title">Dark<br />Matter</h1>
